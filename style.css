@@ -5,7 +5,9 @@
 }
 body{
     background-color: rgb(165, 164, 164);
-    height: 100vh;
+    height: auto;
+    /* background-image: url("/assets/images/stephen-leonardi-YVcg27FuJzs-unsplash.jpg");
+  */
 
 }
 /* .navbar{ 
@@ -18,7 +20,39 @@ body{
 
 .title-is-1{
     font-size: 100px;
+    color: antiquewhite;
 }
 .subtitle-is-2{
     font-size: 60px;
+    color: rgb(238, 236, 234);
 }
+.pic-1{
+    border: 1px solid black;
+    
+}
+.pic-2{
+    border: 30px solid rgb(109, 72, 72);
+    padding-top: auto;
+}
+.pic-3{
+
+    border: 5px solid rgb(109, 72, 72);
+    margin: 10rem;
+}
+.bg-img{
+    background-image: url("/assets/images/stephen-leonardi-YVcg27FuJzs-unsplash.jpg") ;
+    background-position: center center;
+    background-repeat:  no-repeat;
+    background-attachment: fixed;
+    background-size:  cover;
+    background-color: #999;
+    
+}
+p{
+    color: antiquewhite;
+}
+/* .hero-head{
+    position: fixed;
+    top: 0;
+    width: 100%;
+} */
