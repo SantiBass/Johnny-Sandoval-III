@@ -58,10 +58,13 @@ p{
     font-size: 1.5rem;
 }
 .icon{
-    
+
 }
 /* .hero-head{
     position: fixed;
     top: 0;
     width: 100%;
 } */
+.hero-foot{
+    background-color: rgb(231, 236, 255);
+}
